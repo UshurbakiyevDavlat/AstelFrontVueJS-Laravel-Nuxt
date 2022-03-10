@@ -1,0 +1,75 @@
+*,
+*::before,
+*::after
+	box-sizing: border-box
+ul,
+ol
+	padding: 0
+	list-style: none
+html
+	scroll-behavior: smooth
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+figure
+	margin: 0
+body
+	min-height: 100vh
+	scroll-behavior: smooth
+	text-rendering: optimizeSpeed
+	font-family: $font-base
+	font-size: 16px
+	line-height: 1.5
+	overflow-x: hidden !important
+	color: $color-text
+	background-color: #fff
+	touch-action: manipulation
+	&.--hidden
+		overflow-x: hidden
+		overflow-y: hidden
+	&.--menuClose
+		pointer-events: none
+a
+	text-decoration-skip-ink: none
+	text-decoration: none
+img
+	max-width: 100%
+	display: inline-block
+input,
+button,
+textarea,
+select,
+a
+	outline: none
+	font: inherit
+	&:focus
+		outline: none
+button
+	cursor: pointer
+	border: none
+select
+	// appearance: none;
+	background: #fff
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+	-webkit-appearance: none
+	margin: 0
+input[type=number]
+	-moz-appearance: textfield
+// @media (min-width: 1280px)
+//   *::-webkit-scrollbar-track
+//     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3)
+//     background-color: #F5F5F5
+//   *::-webkit-scrollbar
+//     width: 6px
+//     background-color: #F5F5F5
+//   *::-webkit-scrollbar-thumb
+//     background-color: #888

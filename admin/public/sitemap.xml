@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://localhost:8080</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk" />
+        <lastmod>2021-11-23T21:21:43+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/about</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/about" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/about" />
+        <lastmod>2021-08-25T11:06:42+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog" />
+        <lastmod>2021-08-02T16:48:05+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/133</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/133" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/133" />
+        <lastmod>2021-11-07T16:30:53+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/134</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/134" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/134" />
+        <lastmod>2021-11-07T16:29:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/135</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/135" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/135" />
+        <lastmod>2021-11-07T16:27:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/136</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/136" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/136" />
+        <lastmod>2021-11-07T16:33:19+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/137</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/137" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/137" />
+        <lastmod>2021-11-07T16:31:58+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/138</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/138" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/138" />
+        <lastmod>2021-11-07T16:37:06+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/139</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/139" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/139" />
+        <lastmod>2021-11-07T16:38:06+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/140</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/140" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/140" />
+        <lastmod>2021-11-07T16:52:35+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/141</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/141" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/141" />
+        <lastmod>2021-11-07T16:53:13+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/142</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/142" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/142" />
+        <lastmod>2021-11-07T16:54:06+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/143</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/143" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/143" />
+        <lastmod>2021-11-07T16:55:02+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/144</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/144" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/144" />
+        <lastmod>2021-11-07T16:56:22+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/146</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/146" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/146" />
+        <lastmod>2021-11-07T15:27:25+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/147</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/147" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/147" />
+        <lastmod>2021-10-19T12:01:09+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/148</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/148" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/148" />
+        <lastmod>2021-11-11T16:26:34+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/150</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/150" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/150" />
+        <lastmod>2021-10-19T12:00:23+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/246</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/246" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/246" />
+        <lastmod>2021-11-07T15:25:12+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/273</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/273" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/273" />
+        <lastmod>2021-11-07T15:18:43+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/274</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/274" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/274" />
+        <lastmod>2021-11-12T10:58:46+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/275</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/275" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/275" />
+        <lastmod>2021-11-07T15:16:37+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/276</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/276" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/276" />
+        <lastmod>2021-11-07T16:35:00+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/277</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/277" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/277" />
+        <lastmod>2021-11-07T16:36:06+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/278</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/278" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/278" />
+        <lastmod>2021-11-07T16:26:59+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/287</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/287" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/287" />
+        <lastmod>2021-11-07T15:15:54+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/289</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/289" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/289" />
+        <lastmod>2021-11-07T15:14:57+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/290</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/290" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/290" />
+        <lastmod>2021-11-07T15:13:08+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/291</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/291" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/291" />
+        <lastmod>2021-11-07T15:11:51+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/293</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/293" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/293" />
+        <lastmod>2021-10-19T14:47:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/294</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/294" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/294" />
+        <lastmod>2021-11-07T15:10:39+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/296</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/296" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/296" />
+        <lastmod>2021-11-07T15:09:44+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/297</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/297" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/297" />
+        <lastmod>2021-11-07T15:08:43+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/298</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/298" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/298" />
+        <lastmod>2021-11-07T15:07:38+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/299</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/299" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/299" />
+        <lastmod>2021-10-19T15:14:11+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/300</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/300" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/300" />
+        <lastmod>2021-10-19T15:14:56+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/301</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/301" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/301" />
+        <lastmod>2021-10-19T14:56:03+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/302</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/302" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/302" />
+        <lastmod>2021-11-07T15:03:33+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/303</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/303" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/303" />
+        <lastmod>2021-10-19T15:23:16+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/305</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/305" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/305" />
+        <lastmod>2021-10-19T15:24:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/306</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/306" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/306" />
+        <lastmod>2021-11-07T14:59:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/307</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/307" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/307" />
+        <lastmod>2021-11-07T15:06:33+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/308</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/308" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/308" />
+        <lastmod>2021-11-07T15:05:07+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/309</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/309" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/309" />
+        <lastmod>2021-11-07T15:00:58+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/321</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/321" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/321" />
+        <lastmod>2021-11-07T15:02:07+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/322</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/322" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/322" />
+        <lastmod>2021-11-06T18:43:19+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/323</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/323" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/323" />
+        <lastmod>2021-11-06T18:22:40+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/329</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/329" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/329" />
+        <lastmod>2021-10-18T17:53:11+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/330</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/330" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/330" />
+        <lastmod>2021-10-19T15:29:57+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/331</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/331" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/331" />
+        <lastmod>2021-11-06T18:21:29+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/332</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/332" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/332" />
+        <lastmod>2021-11-06T18:20:21+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/333</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/333" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/333" />
+        <lastmod>2021-11-06T18:18:53+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/334</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/334" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/334" />
+        <lastmod>2021-11-06T18:17:37+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/335</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/335" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/335" />
+        <lastmod>2021-11-06T18:16:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/336</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/336" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/336" />
+        <lastmod>2021-10-07T16:20:37+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/337</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/337" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/337" />
+        <lastmod>2021-10-20T09:48:42+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/338</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/338" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/338" />
+        <lastmod>2021-11-06T18:15:07+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/339</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/339" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/339" />
+        <lastmod>2021-11-06T18:11:49+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/342</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/342" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/342" />
+        <lastmod>2021-11-06T18:10:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/343</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/343" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/343" />
+        <lastmod>2021-11-06T18:09:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/344</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/344" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/344" />
+        <lastmod>2021-11-06T18:08:14+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/345</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/345" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/345" />
+        <lastmod>2021-11-06T18:04:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/348</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/348" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/348" />
+        <lastmod>2021-10-18T17:24:02+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/349</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/349" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/349" />
+        <lastmod>2021-11-06T16:18:03+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/350</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/350" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/350" />
+        <lastmod>2021-11-06T16:16:08+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/352</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/352" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/352" />
+        <lastmod>2021-11-06T16:14:06+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/353</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/353" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/353" />
+        <lastmod>2021-11-06T16:12:51+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/357</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/357" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/357" />
+        <lastmod>2021-11-06T16:10:37+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/365</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/365" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/365" />
+        <lastmod>2021-11-06T16:06:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/368</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/368" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/368" />
+        <lastmod>2021-11-06T16:04:56+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/369</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/369" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/369" />
+        <lastmod>2021-11-06T16:04:11+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/371</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/371" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/371" />
+        <lastmod>2021-11-06T15:24:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/382</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/382" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/382" />
+        <lastmod>2021-10-18T10:30:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/393</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/393" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/393" />
+        <lastmod>2021-10-18T16:42:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/396</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/396" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/396" />
+        <lastmod>2021-10-04T17:56:44+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/398</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/398" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/398" />
+        <lastmod>2021-10-18T10:27:32+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/408</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/408" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/408" />
+        <lastmod>2021-10-18T12:06:00+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/410</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/410" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/410" />
+        <lastmod>2021-10-18T12:04:40+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/411</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/411" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/411" />
+        <lastmod>2021-11-06T15:18:54+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/412</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/412" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/412" />
+        <lastmod>2021-11-06T15:17:23+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/413</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/413" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/413" />
+        <lastmod>2021-11-06T15:16:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/415</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/415" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/415" />
+        <lastmod>2021-10-18T16:46:06+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/416</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/416" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/416" />
+        <lastmod>2021-10-18T10:39:43+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/417</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/417" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/417" />
+        <lastmod>2021-11-06T15:12:55+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/421</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/421" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/421" />
+        <lastmod>2021-11-07T16:57:32+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/422</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/422" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/422" />
+        <lastmod>2021-11-06T15:00:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/423</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/423" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/423" />
+        <lastmod>2021-11-07T16:59:02+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/432</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/432" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/432" />
+        <lastmod>2021-11-07T16:59:45+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/438</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/438" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/438" />
+        <lastmod>2021-11-07T17:00:41+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/441</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/441" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/441" />
+        <lastmod>2021-10-18T11:52:31+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/444</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/444" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/444" />
+        <lastmod>2021-11-07T17:02:52+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/446</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/446" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/446" />
+        <lastmod>2021-10-18T11:31:21+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/447</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/447" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/447" />
+        <lastmod>2021-11-07T17:03:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/449</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/449" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/449" />
+        <lastmod>2021-10-18T10:53:34+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/451</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/451" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/451" />
+        <lastmod>2021-11-07T17:04:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/454</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/454" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/454" />
+        <lastmod>2021-11-07T17:05:52+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/455</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/455" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/455" />
+        <lastmod>2021-10-04T17:59:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/462</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/462" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/462" />
+        <lastmod>2021-11-07T17:10:59+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/464</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/464" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/464" />
+        <lastmod>2021-10-18T10:12:29+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/471</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/471" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/471" />
+        <lastmod>2021-11-07T17:07:08+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/476</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/476" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/476" />
+        <lastmod>2021-10-18T10:08:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/481</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/481" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/481" />
+        <lastmod>2021-10-18T09:40:49+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/835</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/835" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/835" />
+        <lastmod>2021-11-07T17:10:07+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/836</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/836" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/836" />
+        <lastmod>2021-11-07T17:09:11+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/837</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/837" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/837" />
+        <lastmod>2021-11-07T17:08:02+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/855</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/855" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/855" />
+        <lastmod>2021-11-07T17:02:00+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/972</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/972" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/972" />
+        <lastmod>2021-11-06T15:11:56+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/973</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/973" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/973" />
+        <lastmod>2021-11-06T15:10:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/974</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/974" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/974" />
+        <lastmod>2021-11-06T15:05:49+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/uchastie-astel-na-vystavke-kazahstanskiy-den-polya-zhana-dala-green-day-2021</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/uchastie-astel-na-vystavke-kazahstanskiy-den-polya-zhana-dala-green-day-2021" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/uchastie-astel-na-vystavke-kazahstanskiy-den-polya-zhana-dala-green-day-2021" />
+        <lastmod>2021-11-06T15:04:38+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/blog/uvedomlenie-ob-izmenenii-preyskuranta</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/blog/uvedomlenie-ob-izmenenii-preyskuranta" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/blog/uvedomlenie-ob-izmenenii-preyskuranta" />
+        <lastmod>2021-11-06T15:03:37+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/certificates</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/certificates" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/certificates" />
+        <lastmod>2021-08-02T16:47:53+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/charity</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/charity" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/charity" />
+        <lastmod>2021-10-14T17:35:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/contacts</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/contacts" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/contacts" />
+        <lastmod>2021-08-02T16:47:02+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/history</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/history" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/history" />
+        <lastmod>2021-08-02T16:46:45+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/partners</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/partners" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/partners" />
+        <lastmod>2021-08-02T16:47:22+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects" />
+        <lastmod>2021-08-02T16:46:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/255</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/255" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/255" />
+        <lastmod>2021-08-02T17:06:38+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/256</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/256" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/256" />
+        <lastmod>2021-08-02T17:07:28+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/258</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/258" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/258" />
+        <lastmod>2021-08-02T17:07:16+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/259</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/259" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/259" />
+        <lastmod>2021-08-02T17:05:54+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/260</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/260" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/260" />
+        <lastmod>2021-08-02T17:04:56+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/261</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/261" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/261" />
+        <lastmod>2021-08-02T17:05:12+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/262</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/262" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/262" />
+        <lastmod>2021-07-14T10:40:12+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/263</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/263" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/263" />
+        <lastmod>2021-08-02T17:06:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/264</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/264" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/264" />
+        <lastmod>2021-08-02T17:06:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/265</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/265" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/265" />
+        <lastmod>2021-08-02T17:04:02+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/266</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/266" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/266" />
+        <lastmod>2021-08-02T17:06:14+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/267</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/267" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/267" />
+        <lastmod>2021-08-02T17:05:40+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/268</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/268" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/268" />
+        <lastmod>2021-08-02T17:04:15+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/269</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/269" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/269" />
+        <lastmod>2021-08-02T17:05:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/270</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/270" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/270" />
+        <lastmod>2021-08-02T17:04:42+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/271</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/271" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/271" />
+        <lastmod>2021-08-02T17:04:28+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/272</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/272" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/272" />
+        <lastmod>2021-08-02T17:07:39+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/projects/92</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/projects/92" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/projects/92" />
+        <lastmod>2021-11-07T17:12:37+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/search</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/search" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/search" />
+        <lastmod>2021-08-02T16:46:09+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services" />
+        <lastmod>2021-11-23T23:06:25+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/internet-veshchey-iot</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/internet-veshchey-iot" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/internet-veshchey-iot" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/internet-veshchey-iot/internet-veshchey</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/internet-veshchey-iot/internet-veshchey" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/internet-veshchey-iot/internet-veshchey" />
+        <lastmod>2021-11-06T14:18:01+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/internet-veshchey-iot/monitoring-selskogo-hozyaystva</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/internet-veshchey-iot/monitoring-selskogo-hozyaystva" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/internet-veshchey-iot/monitoring-selskogo-hozyaystva" />
+        <lastmod>2021-11-06T11:59:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/internet-veshchey-iot/treking-skota</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/internet-veshchey-iot/treking-skota" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/internet-veshchey-iot/treking-skota" />
+        <lastmod>2021-11-06T12:07:42+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/internet-veshchey-iot/treking-tehniki</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/internet-veshchey-iot/treking-tehniki" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/internet-veshchey-iot/treking-tehniki" />
+        <lastmod>2021-11-06T12:04:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/oblachnye-servisy</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/oblachnye-servisy" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/oblachnye-servisy" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/oblachnye-servisy/colocation-razmeshchenie-serverov-v-data-centre-astel</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/oblachnye-servisy/colocation-razmeshchenie-serverov-v-data-centre-astel" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/oblachnye-servisy/colocation-razmeshchenie-serverov-v-data-centre-astel" />
+        <lastmod>2021-11-06T12:36:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/oblachnye-servisy/uslugi-virtualnogo-data-centra</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/oblachnye-servisy/uslugi-virtualnogo-data-centra" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/oblachnye-servisy/uslugi-virtualnogo-data-centra" />
+        <lastmod>2021-11-06T12:39:18+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/perenosnye-i-mobilnye-sputnikovye-kompleksy</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/perenosnye-i-mobilnye-sputnikovye-kompleksy" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/perenosnye-i-mobilnye-sputnikovye-kompleksy" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/avtomobilnyy-komplekt-svyazi-aks</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/avtomobilnyy-komplekt-svyazi-aks" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/avtomobilnyy-komplekt-svyazi-aks" />
+        <lastmod>2021-11-06T12:12:18+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/komandno-shtabnaya-mashina</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/komandno-shtabnaya-mashina" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/komandno-shtabnaya-mashina" />
+        <lastmod>2021-11-06T12:20:46+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/sputnikovaya-svyaz-na-poezdah</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/sputnikovaya-svyaz-na-poezdah" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/perenosnye-i-mobilnye-sputnikovye-kompleksy/sputnikovaya-svyaz-na-poezdah" />
+        <lastmod>2021-11-06T12:14:42+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/usluga-informacionnaya-bezopasnost</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/usluga-informacionnaya-bezopasnost" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/usluga-informacionnaya-bezopasnost" />
+        <lastmod>2021-11-25T22:20:34+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/usluga-informacionnaya-bezopasnost/informacionnaya-bezopasnost</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/usluga-informacionnaya-bezopasnost/informacionnaya-bezopasnost" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/usluga-informacionnaya-bezopasnost/informacionnaya-bezopasnost" />
+        <lastmod>2021-10-15T15:36:50+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/usluga-informacionnaya-bezopasnost/monitoring-sobytiy-informacionnoy-bezopasnosti</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/usluga-informacionnaya-bezopasnost/monitoring-sobytiy-informacionnoy-bezopasnosti" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/usluga-informacionnaya-bezopasnost/monitoring-sobytiy-informacionnoy-bezopasnosti" />
+        <lastmod>2021-11-25T22:00:04+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/usluga-informacionnaya-bezopasnost/testirovanie-na-proniknovenie</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/usluga-informacionnaya-bezopasnost/testirovanie-na-proniknovenie" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/usluga-informacionnaya-bezopasnost/testirovanie-na-proniknovenie" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/usluga-informacionnaya-bezopasnost/upravlenie-uyazvimostyami</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/usluga-informacionnaya-bezopasnost/upravlenie-uyazvimostyami" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/usluga-informacionnaya-bezopasnost/upravlenie-uyazvimostyami" />
+        <lastmod>2021-10-06T17:38:30+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-integracii</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-integracii" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-integracii" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-integracii/postavka-i-installyaciya-oborudovaniya</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-integracii/postavka-i-installyaciya-oborudovaniya" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-integracii/postavka-i-installyaciya-oborudovaniya" />
+        <lastmod>2021-11-06T14:25:38+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-integracii/tehnicheskaya-podderzhka</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-integracii/tehnicheskaya-podderzhka" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-integracii/tehnicheskaya-podderzhka" />
+        <lastmod>2021-11-25T22:24:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-proektirovaniya</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-proektirovaniya" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-proektirovaniya" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-proektirovaniya/razrabotka-proektno-smetnoy-dokumentacii</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-proektirovaniya/razrabotka-proektno-smetnoy-dokumentacii" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-proektirovaniya/razrabotka-proektno-smetnoy-dokumentacii" />
+        <lastmod>2021-11-06T12:30:03+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/dostup-k-internetu</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/dostup-k-internetu" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/dostup-k-internetu" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/dostup-k-internetu/bezlimitnyy-internet-dlya-biznesa</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/dostup-k-internetu/bezlimitnyy-internet-dlya-biznesa" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/dostup-k-internetu/bezlimitnyy-internet-dlya-biznesa" />
+        <lastmod>2021-11-06T14:28:01+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/dostup-k-internetu/dostup-k-seti-internet-cherez-eshdi</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/dostup-k-internetu/dostup-k-seti-internet-cherez-eshdi" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/dostup-k-internetu/dostup-k-seti-internet-cherez-eshdi" />
+        <lastmod>2021-11-06T14:50:36+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/dostup-k-internetu/sputnikovyy-internet</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/dostup-k-internetu/sputnikovyy-internet" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/dostup-k-internetu/sputnikovyy-internet" />
+        <lastmod>2021-11-06T14:48:13+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/kanaly-svyazi-po-tehnologii-scpc</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/kanaly-svyazi-po-tehnologii-scpc" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/kanaly-svyazi-po-tehnologii-scpc" />
+        <lastmod>2021-11-06T14:42:56+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/korporativnye-sputnikovye-seti</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/korporativnye-sputnikovye-seti" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/korporativnye-sputnikovye-seti" />
+        <lastmod>2021-11-06T14:45:01+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/postroenie-korporativnoy-seti-ip-vpn</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/postroenie-korporativnoy-seti-ip-vpn" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/korporativnye-seti-peredachi-dannyh/postroenie-korporativnoy-seti-ip-vpn" />
+        <lastmod>2021-11-06T14:30:05+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/nomer-besplatnogo-vyzova-8-800</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/nomer-besplatnogo-vyzova-8-800" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/nomer-besplatnogo-vyzova-8-800" />
+        <lastmod>2021-11-06T14:37:35+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/telefoniya-dlya-biznesa-gorodskaya-telefonnaya-set</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/telefoniya-dlya-biznesa-gorodskaya-telefonnaya-set" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/telefoniya-dlya-biznesa-gorodskaya-telefonnaya-set" />
+        <lastmod>2021-11-06T14:32:05+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/telefonnaya-svyaz-dlya-krupnyh-kompaniy-i-biznes-centrov</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/telefonnaya-svyaz-dlya-krupnyh-kompaniy-i-biznes-centrov" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/telefonnaya-svyaz-dlya-krupnyh-kompaniy-i-biznes-centrov" />
+        <lastmod>2021-11-06T14:36:05+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/virtualnyy-ofis</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/virtualnyy-ofis" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-telekommunikaciy/uslugi-telefonnoy-svyazi/virtualnyy-ofis" />
+        <lastmod>2021-11-06T14:34:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-upravleniya</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-upravleniya" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-upravleniya" />
+        <lastmod>2021-10-06T10:33:17+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/uslugi-upravleniya/upravlenie-proektami-stroitelstva</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/uslugi-upravleniya/upravlenie-proektami-stroitelstva" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/uslugi-upravleniya/upravlenie-proektami-stroitelstva" />
+        <lastmod>2021-11-06T12:26:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/services/тест</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/services/тест" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/services/тест" />
+        <lastmod>2021-11-27T11:51:41+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/signin</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/signin" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/signin" />
+        <lastmod>2021-08-02T16:45:41+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/team</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/team" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/team" />
+        <lastmod>2021-08-02T16:45:24+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8080/vacancies</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/vacancies" />
+        <xhtml:link rel="alternate" hreflang="kk" href="http://localhost:8080/kk/vacancies" />
+        <lastmod>2021-08-02T16:44:36+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+</urlset>
